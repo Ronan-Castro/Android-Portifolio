@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\layout_activity_abre_aluno.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\layout\\activity_abre_aluno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\menu_activity_formulario_aluno_menu.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\menu\\activity_formulario_aluno_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\layout_activity_lista_alunos.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\layout\\activity_lista_alunos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\layout_activity_formulario_aluno.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\layout\\activity_formulario_aluno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xxhdpi_ic_action_salvar_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xxhdpi\\ic_action_salvar_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-mdpi_ic_action_novo_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-mdpi\\ic_action_novo_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-hdpi_ic_action_salvar_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-hdpi\\ic_action_salvar_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xxxhdpi_ic_action_novo_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xxxhdpi\\ic_action_novo_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xhdpi_ic_action_novo_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xhdpi\\ic_action_novo_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xxhdpi_ic_action_novo_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xxhdpi\\ic_action_novo_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\layout_item_aluno.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\layout\\item_aluno.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xxxhdpi_ic_action_salvar_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xxxhdpi\\ic_action_salvar_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-xhdpi_ic_action_salvar_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-xhdpi\\ic_action_salvar_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-hdpi_ic_action_novo_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-hdpi\\ic_action_novo_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "br.com.alura.agenda.app-merged_res-15:/menu_activity_lista_alunos_menu.xml.flat",
+        "source": "br.com.alura.agenda.app-main-17:/menu/activity_lista_alunos_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-pngs-10:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable-mdpi_ic_action_salvar_aluno.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable-mdpi\\ic_action_salvar_aluno.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\menu_activity_lista_alunos_menu.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\menu\\activity_lista_alunos_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-merged_res-15:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ronan\\.gradle\\daemon\\7.3.3\\br.com.alura.agenda.app-main-17:\\drawable\\ic_launcher_background.xml"
+    }
+]

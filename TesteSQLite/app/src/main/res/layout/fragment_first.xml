@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarinicial"
+        app:title="Lista de Livros"
+        app:titleTextColor="#ffffff"
+        app:titleTextAppearance="@style/TextAppearance.MaterialComponents.Headline4"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/add_livro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        app:fabCustomSize="85dp"
+        android:src="@drawable/ic_stat_name"
+        android:layout_margin="55dp"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <!--app:fabSize="normal" or app:fabSize="mini" -->
+
+    <ListView
+        android:id="@+id/listView_first"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="55dp">
+    </ListView>
+</RelativeLayout>

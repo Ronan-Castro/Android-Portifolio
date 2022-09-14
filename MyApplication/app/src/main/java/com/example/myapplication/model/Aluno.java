@@ -35,7 +35,7 @@ public class Aluno implements Serializable {
     @NonNull
     @Override
     public String toString() {
-        return nome;
+    return nome + " - " + telefone;
     }
 
     public String getTelefone() {
@@ -56,5 +56,9 @@ public class Aluno implements Serializable {
 
     public boolean temIdValido() {
         return id > 0;
+    }
+
+    public String getNome() {
+        return nome;
     }
 }

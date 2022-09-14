@@ -1,5 +1,7 @@
 package com.example.myapplication.ui.activity;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -8,17 +10,22 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.ContextMenu;
+import android.view.LayoutInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
 import android.widget.ListView;
 
 
 import com.example.myapplication.R;
 import com.example.myapplication.dao.AlunoDAO;
 import com.example.myapplication.model.Aluno;
+import com.example.myapplication.ui.adapter.ListaAlunosAdapter;
 
+import java.util.ArrayList;
 import java.util.List;
 
 
@@ -26,7 +33,8 @@ public class ListaAlunosActivity extends AppCompatActivity {
     private final AlunoDAO dao = new AlunoDAO();
     public static final String TITULO_APPBAR = "Lista de Alunos";
     public static final String CHAVE_ALUNO = "aluno";
-    private ArrayAdapter<Aluno> adapter;
+    private ListaAlunosAdapter adapter;
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -61,16 +69,29 @@ public class ListaAlunosActivity extends AppCompatActivity {
         Aluno alunoEscolhido = adapter.getItem(menuInfo.position);
         CharSequence title = item.getTitle();
         if ("Remover".equals(title)) {
-            RemoveAluno(alunoEscolhido);
+            ConfirmaRemocao(alunoEscolhido);
         } else if ("Editar".equals(title)) {
             AbreFormularioModoEditaAluno(alunoEscolhido);
         }
         return super.onContextItemSelected(item);
     }
 
+    private void ConfirmaRemocao(Aluno alunoEscolhido) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        builder.setTitle("Removendo Aluno");
+        builder.setMessage("Tem certeza que deseja remover o aluno?");
+        builder.setPositiveButton("Sim", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                RemoveAluno(alunoEscolhido);
+            }
+        });
+        builder.setNegativeButton("Não", null);
+        builder.show();
+    }
+
     private void AtualizaAlunos() {
-        adapter.clear();
-        adapter.addAll(dao.todos());
+        adapter.atualiza(dao.todos());
     }
 
     private void ConfiguraLista() {
@@ -103,7 +124,7 @@ public class ListaAlunosActivity extends AppCompatActivity {
     }
 
     private void ConfiguraAdapter(ListView list) {
-        adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1);
+        adapter = new ListaAlunosAdapter(this);
         list.setAdapter(adapter);
     }
 
