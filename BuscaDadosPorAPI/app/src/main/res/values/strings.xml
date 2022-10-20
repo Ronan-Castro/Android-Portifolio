@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuscaDadosPorAPI</string>
+    <string name="time">Time</string>
+    <string name="posicao">Posição</string>
+    <string name="valormedio">Valor Médio</string>
+    <string name="valortotal">Valor Total</string>
+    <string name="Ano">Ano</string>
+</resources>

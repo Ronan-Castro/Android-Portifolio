@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Nome">Nome</string>
+    <string name="Email">Email</string>
+    <string name="telefone">telefone</string>
+    <string name="voltar">Voltar</string>
+</resources>

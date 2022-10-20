@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/time"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="50dp"/>
+
+    <TextView
+        android:id="@+id/posicao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="330dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/posicao"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge" />
+
+    <TextView
+        android:id="@+id/valormedio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valormedio"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="50dp"/>
+
+    <TextView
+        android:id="@+id/valortotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valortotal"
+        android:textAppearance="@style/TextAppearance.Material3.BodyLarge"
+        android:layout_marginTop="70dp"
+        android:layout_marginEnd="50dp"/>
+
+    <TextView
+        android:id="@+id/ano"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Ano"
+        android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
+        android:layout_marginTop="70dp"
+        android:layout_marginStart="350dp"/>
+
+</RelativeLayout>

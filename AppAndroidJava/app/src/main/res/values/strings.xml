@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CRUD-Java</string>
+    <string name="webservice">http://192.168.11.14/WebServicePHP/</string>
+</resources>
